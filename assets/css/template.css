@@ -236,6 +236,7 @@ footer {
 }
 footer .widget-title-text {
     color: #FFF;
+    padding: 20px;
 }
 .footer-copy {
     border-top: 1px solid #2C2C2C;
