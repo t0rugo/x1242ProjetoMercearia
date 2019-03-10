@@ -147,7 +147,7 @@ nav a:hover {
     margin-top: 10px;
 }
 .widget-body{
-    padding: 20px;
+    padding-left: 20px;
 }
 .quadrados {
 	display: flex;
