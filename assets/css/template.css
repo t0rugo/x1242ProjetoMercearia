@@ -146,6 +146,9 @@ nav a:hover {
     background-color: #36A9E1;
     margin-top: 10px;
 }
+.widget-body{
+    padding: 20px;
+}
 .quadrados {
 	display: flex;
 	flex-direction: row;
