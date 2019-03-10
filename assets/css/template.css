@@ -146,9 +146,6 @@ nav a:hover {
     background-color: #36A9E1;
     margin-top: 10px;
 }
-.widget-body{
-    padding-left: 20px;
-}
 .quadrados {
 	display: flex;
 	flex-direction: row;
@@ -208,7 +205,7 @@ article .news-resume {
 footer {
     background-color: #1E1E1E;
     display: flex;
-    justify-content: center;
+    justify-content: stretch;
 }
 .footer-menu {
     display: flex;
