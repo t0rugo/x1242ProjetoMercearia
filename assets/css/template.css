@@ -205,7 +205,7 @@ article .news-resume {
 footer {
     background-color: #1E1E1E;
     display: flex;
-    justify-content: stretch;
+    justify-content: stretch; /*center*/
 }
 .footer-menu {
     display: flex;
